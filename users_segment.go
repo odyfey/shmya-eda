@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	lastDayJanuaryHolidays = 9
+	lastDayJanuaryHolidays = 8
 	controlOrderPrice      = 800
 )
 
